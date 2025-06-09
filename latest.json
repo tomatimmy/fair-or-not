@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "Symbol": "AAPL",
+    "Name": "AAPL",
+    "P/E": 32.18,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "MSFT",
+    "Name": "MSFT",
+    "P/E": 39.56,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "AMZN",
+    "Name": "AMZN",
+    "P/E": 38.46,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "GOOGL",
+    "Name": "GOOGL",
+    "P/E": 21.14,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "META",
+    "Name": "META",
+    "P/E": 28.13,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "NVDA",
+    "Name": "NVDA",
+    "P/E": 48.02,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "TSLA",
+    "Name": "TSLA",
+    "P/E": 133.14,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BRK.B",
+    "Name": "BRK.B",
+    "P/E": 11.97,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "UNH",
+    "Name": "UNH",
+    "P/E": 19.02,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "JNJ",
+    "Name": "JNJ",
+    "P/E": 26.6,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  }
+]
