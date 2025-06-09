@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fair or Not? Stock Screener</title>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css"/>
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+  <style>
+    body { font-family: sans-serif; padding: 20px; background: #f9f9f9; }
+    h1 { text-align: center; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; background: white; }
+    th, td { padding: 8px; text-align: center; }
+    th { background-color: #f2f2f2; }
+    tr:hover { background-color: #f1f7ff; }
+    .dataTables_wrapper .dataTables_filter { float: right; text-align: right; }
+  </style>
+</head>
+<body>
+  <h1>📊 Fair or Not? - Stock Screener</h1>
+  <p>Updated every 15 minutes. Click columns to sort. Hover over Verdict to see explanation.</p>
+  <table id="stockTable" class="display">
+    <thead>
+      <tr>
+        <th>Symbol</th>
+        <th>Name</th>
+        <th>P/E</th>
+        <th>PEG</th>
+        <th>FCF Yield (%)</th>
+        <th>Verdict</th>
+        <th>Score</th>
+        <th>Reason</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+  <script>
+    fetch("latest.json")
+      .then(response => response.json())
+      .then(data => {
+        const tbody = document.querySelector("#stockTable tbody");
+        data.forEach(row => {
+          const score = (row["VerdictReason"].match(/✅/g) || []).length;
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td>${row.Symbol}</td>
+            <td>${row.Name}</td>
+            <td>${row["P/E"] ?? '-'}</td>
+            <td>${row["PEG"] ?? '-'}</td>
+            <td>${row["FCF Yield (%)"] ?? '-'}</td>
+            <td title="${row.VerdictReason || ''}">${row.Verdict}</td>
+            <td>${score}</td>
+            <td>${row.VerdictReason}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+        $('#stockTable').DataTable();
+      });
+  </script>
+</body>
+</html>
