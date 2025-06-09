@@ -2450,276 +2450,276 @@
   {
     "Symbol": "HST",
     "Name": "HST",
-    "P/E": null,
+    "P/E": 15.3,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HSIC",
-    "Name": "HSIC",
-    "P/E": null,
+    "Name": "Henry Schein Inc",
+    "P/E": 21.96,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HRL",
-    "Name": "HRL",
-    "P/E": null,
+    "Name": "Hormel Foods Corp",
+    "P/E": 20.92,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HPQ",
-    "Name": "HPQ",
-    "P/E": null,
+    "Name": "HP Inc",
+    "P/E": 8.52,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HPE",
-    "Name": "HPE",
-    "P/E": null,
+    "Name": "Hewlett Packard Enterprise Co",
+    "P/E": 9.21,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HON",
-    "Name": "HON",
-    "P/E": null,
+    "Name": "Honeywell International Inc",
+    "P/E": 25.77,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HOLX",
-    "Name": "HOLX",
-    "P/E": null,
+    "Name": "Hologic Inc",
+    "P/E": 18.15,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HLT",
-    "Name": "HLT",
-    "P/E": null,
+    "Name": "Hilton Worldwide Holdings Inc",
+    "P/E": 39.15,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HII",
-    "Name": "HII",
-    "P/E": null,
+    "Name": "Huntington Ingalls Industries Inc",
+    "P/E": 16.16,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HIG",
-    "Name": "HIG",
-    "P/E": null,
+    "Name": "Hartford Insurance Group Inc",
+    "P/E": 11.63,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HES",
-    "Name": "HES",
-    "P/E": null,
+    "Name": "Hess Corp",
+    "P/E": 15.25,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HD",
-    "Name": "HD",
-    "P/E": null,
+    "Name": "Home Depot Inc",
+    "P/E": 24.57,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HCA",
-    "Name": "HCA",
-    "P/E": null,
+    "Name": "HCA Healthcare Inc",
+    "P/E": 16.05,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HBAN",
-    "Name": "HBAN",
-    "P/E": null,
+    "Name": "Huntington Bancshares Inc",
+    "P/E": 12.18,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HAS",
-    "Name": "HAS",
-    "P/E": null,
+    "Name": "Hasbro Inc",
+    "P/E": 24.33,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HAL",
-    "Name": "HAL",
-    "P/E": null,
+    "Name": "Halliburton Co",
+    "P/E": 7.19,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GWW",
-    "Name": "GWW",
-    "P/E": null,
+    "Name": "WW Grainger Inc",
+    "P/E": 27.54,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GS",
-    "Name": "GS",
-    "P/E": null,
+    "Name": "Goldman Sachs Group Inc",
+    "P/E": 13.25,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GRMN",
-    "Name": "GRMN",
-    "P/E": null,
+    "Name": "Garmin Ltd",
+    "P/E": 28.29,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GPN",
-    "Name": "GPN",
-    "P/E": null,
+    "Name": "Global Payments Inc",
+    "P/E": 12.16,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GPC",
-    "Name": "GPC",
-    "P/E": null,
+    "Name": "Genuine Parts Co",
+    "P/E": 19.21,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GOOGL",
-    "Name": "GOOGL",
-    "P/E": null,
+    "Name": "Alphabet Inc",
+    "P/E": 21.42,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GOOG",
-    "Name": "GOOG",
-    "P/E": null,
+    "Name": "Alphabet Inc",
+    "P/E": 21.42,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GNRC",
-    "Name": "GNRC",
-    "P/E": null,
+    "Name": "Generac Holdings Inc",
+    "P/E": 24.2,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GM",
-    "Name": "GM",
-    "P/E": null,
+    "Name": "General Motors Co",
+    "P/E": 7.6,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GLW",
-    "Name": "GLW",
-    "P/E": null,
+    "Name": "Corning Inc",
+    "P/E": 85.73,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GL",
-    "Name": "GL",
-    "P/E": null,
+    "Name": "Globe Life Inc",
+    "P/E": 9.38,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GIS",
-    "Name": "GIS",
-    "P/E": null,
+    "Name": "General Mills Inc",
+    "P/E": 12,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GILD",
-    "Name": "GILD",
-    "P/E": null,
+    "Name": "Gilead Sciences Inc",
+    "P/E": 293.82,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GEV",
-    "Name": "GEV",
-    "P/E": null,
+    "Name": "GE Vernova Inc",
+    "P/E": 85.29,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GEN",
-    "Name": "GEN",
+    "Name": "Gen Digital Inc",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -4483,88 +4483,88 @@
   },
   {
     "Symbol": "ABT",
-    "Name": "Abbott Laboratories",
-    "P/E": 17.31,
+    "Name": "ABT",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u2705 Bargain",
-    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "ABNB",
-    "Name": "Airbnb Inc",
-    "P/E": 33.27,
+    "Name": "ABNB",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "ABBV",
-    "Name": "AbbVie Inc",
-    "P/E": 78.38,
+    "Name": "ABBV",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "AAPL",
-    "Name": "Apple Inc",
-    "P/E": 32.18,
+    "Name": "AAPL",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "A",
-    "Name": "Agilent Technologies Inc",
-    "P/E": 25.85,
+    "Name": "A",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "COIN",
-    "Name": "Coinbase Global Inc",
-    "P/E": 24.82,
+    "Name": "COIN",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "DASH",
-    "Name": "DoorDash Inc",
-    "P/E": 752.58,
+    "Name": "DASH",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "TKO",
-    "Name": "TKO Group Holdings Inc",
-    "P/E": 3490.7,
+    "Name": "TKO",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "WSM",
-    "Name": "Williams-Sonoma Inc",
-    "P/E": 17.3,
+    "Name": "WSM",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u2705 Bargain",
-    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "EXE",
-    "Name": "Expand Energy Corp",
+    "Name": "EXE",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -4573,43 +4573,43 @@
   },
   {
     "Symbol": "APO",
-    "Name": "Apollo Global Management Inc",
-    "P/E": 16.66,
+    "Name": "APO",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u2705 Bargain",
-    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "WDAY",
-    "Name": "Workday Inc",
-    "P/E": 128.28,
+    "Name": "WDAY",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "LII",
-    "Name": "Lennox International Inc",
-    "P/E": 24.43,
+    "Name": "LII",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "TPL",
-    "Name": "Texas Pacific Land Corp",
-    "P/E": 56.08,
+    "Name": "TPL",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "AMTM",
-    "Name": "Amentum Holdings Inc",
+    "Name": "AMTM",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -4618,43 +4618,43 @@
   },
   {
     "Symbol": "PLTR",
-    "Name": "Palantir Technologies Inc",
-    "P/E": 652.13,
+    "Name": "PLTR",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "DELL",
-    "Name": "Dell Technologies Inc",
-    "P/E": 16.93,
+    "Name": "DELL",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u2705 Bargain",
-    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "ERIE",
-    "Name": "Erie Indemnity Co",
-    "P/E": 28.07,
+    "Name": "ERIE",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "KKR",
-    "Name": "KKR & Co Inc",
-    "P/E": 35.73,
+    "Name": "KKR",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "CRWD",
-    "Name": "CrowdStrike Holdings Inc",
+    "Name": "CRWD",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -4663,93 +4663,93 @@
   },
   {
     "Symbol": "GDDY",
-    "Name": "GoDaddy Inc",
-    "P/E": 27.47,
+    "Name": "GDDY",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "VST",
-    "Name": "Vistra Corp",
-    "P/E": 22.16,
+    "Name": "VST",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "GEV",
-    "Name": "GE Vernova Inc",
-    "P/E": 85.29,
+    "Name": "GEV",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "SOLV",
-    "Name": "Solventum Corp",
-    "P/E": 27.09,
+    "Name": "SOLV",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "SMCI",
-    "Name": "Super Micro Computer Inc",
-    "P/E": 21.51,
+    "Name": "SMCI",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "DECK",
-    "Name": "Deckers Outdoor Corp",
-    "P/E": 17.36,
+    "Name": "DECK",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u2705 Bargain",
-    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "UBER",
-    "Name": "Uber Technologies Inc",
-    "P/E": 18.16,
+    "Name": "UBER",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u2705 Bargain",
-    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "JBL",
-    "Name": "Jabil Inc",
-    "P/E": 13.66,
+    "Name": "JBL",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u2705 Bargain",
-    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "BLDR",
-    "Name": "Builders FirstSource Inc",
-    "P/E": 11.5,
+    "Name": "BLDR",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u2705 Bargain",
-    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "HUBB",
-    "Name": "Hubbell Inc",
-    "P/E": 27.12,
+    "Name": "HUBB",
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u26a0\ufe0f No data",
+    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "LULU",
@@ -4915,52 +4915,52 @@
   },
   {
     "Symbol": "CSGP",
-    "Name": "CSGP",
-    "P/E": null,
+    "Name": "CoStar Group Inc",
+    "P/E": 239.87,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "INVH",
-    "Name": "INVH",
-    "P/E": null,
+    "Name": "Invitation Homes Inc",
+    "P/E": 44.48,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "KDP",
-    "Name": "KDP",
-    "P/E": null,
+    "Name": "Keurig Dr Pepper Inc",
+    "P/E": 30.89,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "ON",
-    "Name": "ON",
-    "P/E": null,
+    "Name": "ON Semiconductor Corp",
+    "P/E": 13.33,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "VICI",
-    "Name": "VICI",
-    "P/E": null,
+    "Name": "VICI Properties Inc",
+    "P/E": 12.41,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "WBD",
-    "Name": "WBD",
+    "Name": "Warner Bros Discovery Inc",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -4969,52 +4969,52 @@
   },
   {
     "Symbol": "CPT",
-    "Name": "CPT",
-    "P/E": null,
+    "Name": "Camden Property Trust",
+    "P/E": 100.32,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "MOH",
-    "Name": "MOH",
-    "P/E": null,
+    "Name": "Molina Healthcare Inc",
+    "P/E": 13.6,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "NDSN",
-    "Name": "NDSN",
-    "P/E": null,
+    "Name": "Nordson Corp",
+    "P/E": 26.43,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "CEG",
-    "Name": "CEG",
-    "P/E": null,
+    "Name": "Constellation Energy Corp",
+    "P/E": 24.98,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "SBNY",
-    "Name": "SBNY",
-    "P/E": null,
+    "Name": "Signature Bank",
+    "P/E": 0.04,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "SEDG",
-    "Name": "SEDG",
+    "Name": "Solaredge Technologies Inc",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -5023,30 +5023,30 @@
   },
   {
     "Symbol": "FDS",
-    "Name": "FDS",
-    "P/E": null,
+    "Name": "Factset Research Systems Inc",
+    "P/E": 30.07,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "EPAM",
-    "Name": "EPAM",
-    "P/E": null,
+    "Name": "Epam Systems Inc",
+    "P/E": 22.21,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "MTCH",
-    "Name": "MTCH",
-    "P/E": null,
+    "Name": "Match Group Inc",
+    "P/E": 14.26,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "CDAY",
@@ -5059,25 +5059,25 @@
   },
   {
     "Symbol": "BRO",
-    "Name": "BRO",
-    "P/E": null,
+    "Name": "Brown & Brown Inc",
+    "P/E": 31.09,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "TECH",
-    "Name": "TECH",
-    "P/E": null,
+    "Name": "Bio-Techne Corp",
+    "P/E": 45.88,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "MRNA",
-    "Name": "MRNA",
+    "Name": "Moderna Inc",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -5086,43 +5086,43 @@
   },
   {
     "Symbol": "OGN",
-    "Name": "OGN",
-    "P/E": null,
+    "Name": "Organon & Co",
+    "P/E": 2.88,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "CRL",
-    "Name": "CRL",
-    "P/E": null,
+    "Name": "Charles River Laboratories International Inc",
+    "P/E": 690.21,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "PTC",
-    "Name": "PTC",
-    "P/E": null,
+    "Name": "PTC Inc",
+    "P/E": 54.65,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "NXPI",
-    "Name": "NXPI",
-    "P/E": null,
+    "Name": "NXP Semiconductors NV",
+    "P/E": 20.9,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "PENN",
-    "Name": "PENN",
+    "Name": "PENN Entertainment Inc",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -5131,16 +5131,16 @@
   },
   {
     "Symbol": "GNRC",
-    "Name": "GNRC",
-    "P/E": null,
+    "Name": "Generac Holdings Inc",
+    "P/E": 24.2,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "CZR",
-    "Name": "CZR",
+    "Name": "Caesars Entertainment Inc",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -5149,39 +5149,39 @@
   },
   {
     "Symbol": "MPWR",
-    "Name": "MPWR",
-    "P/E": null,
+    "Name": "Monolithic Power Systems Inc",
+    "P/E": 18.72,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "TRMB",
-    "Name": "TRMB",
-    "P/E": null,
+    "Name": "Trimble Inc",
+    "P/E": 11.45,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "ENPH",
-    "Name": "ENPH",
-    "P/E": null,
+    "Name": "Enphase Energy Inc",
+    "P/E": 52.63,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "TSLA",
-    "Name": "TSLA",
-    "P/E": null,
+    "Name": "Tesla Inc",
+    "P/E": 133.14,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "VNT",
@@ -7480,21 +7480,21 @@
   },
   {
     "Symbol": "EXPE",
-    "Name": "EXPE",
-    "P/E": null,
+    "Name": "Expedia Group Inc",
+    "P/E": 18.19,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "TDC",
-    "Name": "TDC",
-    "P/E": null,
+    "Name": "Teradata Corp",
+    "P/E": 18.91,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "TSO",
@@ -7507,12 +7507,12 @@
   },
   {
     "Symbol": "ICE",
-    "Name": "ICE",
-    "P/E": null,
+    "Name": "Intercontinental Exchange Inc",
+    "P/E": 36.93,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "LUK",
@@ -7525,12 +7525,12 @@
   },
   {
     "Symbol": "DFS",
-    "Name": "DFS",
-    "P/E": null,
+    "Name": "Discover Financial Services",
+    "P/E": 11.1,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "KFT",
@@ -7543,34 +7543,34 @@
   },
   {
     "Symbol": "AVB",
-    "Name": "AVB",
-    "P/E": null,
+    "Name": "AvalonBay Communities Inc",
+    "P/E": 26.71,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "JNPR",
-    "Name": "JNPR",
-    "P/E": null,
+    "Name": "Juniper Networks Inc",
+    "P/E": 41.7,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "AMZN",
-    "Name": "AMZN",
-    "P/E": null,
+    "Name": "Amazon.com Inc",
+    "P/E": 38.46,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "STZ",
-    "Name": "STZ",
+    "Name": "Constellation Brands Inc",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -7588,12 +7588,12 @@
   },
   {
     "Symbol": "INTU",
-    "Name": "INTU",
-    "P/E": null,
+    "Name": "Intuit Inc",
+    "P/E": 72.5,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "SBL",
@@ -7642,12 +7642,12 @@
   },
   {
     "Symbol": "SBUX",
-    "Name": "SBUX",
-    "P/E": null,
+    "Name": "Starbucks Corp",
+    "P/E": 27.15,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "YHOO",
@@ -7669,12 +7669,12 @@
   },
   {
     "Symbol": "ACT",
-    "Name": "ACT",
-    "P/E": null,
+    "Name": "Enact Holdings Inc",
+    "P/E": 7.55,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "FSR",
@@ -7687,16 +7687,16 @@
   },
   {
     "Symbol": "CCL",
-    "Name": "CCL",
-    "P/E": null,
+    "Name": "Carnival Corp",
+    "P/E": 16.62,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u2705 Bargain",
+    "VerdictReason": "\u2705 P/E < 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "CPWR",
-    "Name": "CPWR",
+    "Name": "Ocean Thermal Energy Corp",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -7705,7 +7705,7 @@
   },
   {
     "Symbol": "CCI",
-    "Name": "CCI",
+    "Name": "Crown Castle Inc",
     "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
@@ -7723,20 +7723,20 @@
   },
   {
     "Symbol": "BUD",
-    "Name": "BUD",
-    "P/E": null,
+    "Name": "Anheuser-Busch Inbev SA",
+    "P/E": 21.13,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   },
   {
     "Symbol": "DIS",
-    "Name": "DIS",
-    "P/E": null,
+    "Name": "Walt Disney Co",
+    "P/E": 41.38,
     "PEG": null,
     "FCF Yield (%)": null,
-    "Verdict": "\u26a0\ufe0f No data",
-    "VerdictReason": "\u26a0\ufe0f P/E unavailable | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20 | \u26a0\ufe0f PEG unavailable | \u26a0\ufe0f FCF Yield unavailable"
   }
 ]
