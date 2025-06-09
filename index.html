@@ -55,7 +55,9 @@
           `;
           tbody.appendChild(tr);
         });
-        $('#stockTable').DataTable();
+        $('#stockTable').DataTable({
+            "pageLength": 500
+        });
       });
   </script>
 </body>
