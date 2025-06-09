@@ -3665,137 +3665,137 @@
   {
     "Symbol": "CME",
     "Name": "CME",
-    "P/E": 27.4,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CMCSA",
     "Name": "CMCSA",
-    "P/E": 8.02,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CLX",
     "Name": "CLX",
-    "P/E": 56.04,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CL",
     "Name": "CL",
-    "P/E": 25.57,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CINF",
     "Name": "CINF",
-    "P/E": 10.3,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CI",
     "Name": "CI",
-    "P/E": 24.13,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CHTR",
     "Name": "CHTR",
-    "P/E": 21.55,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CHRW",
     "Name": "CHRW",
-    "P/E": 24.42,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CHD",
     "Name": "CHD",
-    "P/E": 41.69,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CFG",
     "Name": "CFG",
-    "P/E": 11.89,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CF",
     "Name": "CF",
-    "P/E": 12.49,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CEG",
     "Name": "CEG",
-    "P/E": 24.98,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CDW",
     "Name": "CDW",
-    "P/E": 21.78,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CDNS",
     "Name": "CDNS",
-    "P/E": 79.18,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CCL",
     "Name": "CCL",
-    "P/E": 16.62,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CCI",
@@ -3809,128 +3809,128 @@
   {
     "Symbol": "CBRE",
     "Name": "CBRE",
-    "P/E": 39.59,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CBOE",
     "Name": "CBOE",
-    "P/E": 31.27,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CB",
     "Name": "CB",
-    "P/E": 12.7,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CAT",
     "Name": "CAT",
-    "P/E": 15.67,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CARR",
     "Name": "CARR",
-    "P/E": 10.87,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CAH",
     "Name": "CAH",
-    "P/E": 43.12,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CAG",
     "Name": "CAG",
-    "P/E": 30.78,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "C",
     "Name": "C",
-    "P/E": 11.53,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BXP",
     "Name": "BXP",
-    "P/E": 796.62,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BX",
     "Name": "BX",
-    "P/E": 61.37,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BSX",
     "Name": "BSX",
-    "P/E": 80.46,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BRO",
     "Name": "BRO",
-    "P/E": 31.09,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BRK.B",
     "Name": "BRK.B",
-    "P/E": 11.97,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BR",
     "Name": "BR",
-    "P/E": 40.94,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BMY",
@@ -3944,101 +3944,101 @@
   {
     "Symbol": "BLK",
     "Name": "BLK",
-    "P/E": 24.06,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BLDR",
     "Name": "BLDR",
-    "P/E": 11.5,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BKR",
     "Name": "BKR",
-    "P/E": 12.6,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BKNG",
     "Name": "BKNG",
-    "P/E": 31.06,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BK",
     "Name": "BK",
-    "P/E": 14.26,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BIIB",
     "Name": "BIIB",
-    "P/E": 12.03,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BG",
     "Name": "BG",
-    "P/E": 8.81,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BF.B",
     "Name": "BF.B",
-    "P/E": 15.32,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BEN",
     "Name": "BEN",
-    "P/E": 24.81,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BDX",
     "Name": "BDX",
-    "P/E": 29.21,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BBY",
     "Name": "BBY",
-    "P/E": 16.7,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BAX",
@@ -4052,20 +4052,20 @@
   {
     "Symbol": "BALL",
     "Name": "BALL",
-    "P/E": 3.74,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BAC",
     "Name": "BAC",
-    "P/E": 12.51,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "BA",
@@ -4079,128 +4079,128 @@
   {
     "Symbol": "AZO",
     "Name": "AZO",
-    "P/E": 23.13,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "AXP",
     "Name": "AXP",
-    "P/E": 20.79,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "AXON",
     "Name": "AXON",
-    "P/E": 163.5,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "AWK",
     "Name": "AWK",
-    "P/E": 25.62,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "AVY",
     "Name": "AVY",
-    "P/E": 20.06,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "AVGO",
     "Name": "AVGO",
-    "P/E": 196.96,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "AVB",
     "Name": "AVB",
-    "P/E": 26.71,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "ATO",
     "Name": "ATO",
-    "P/E": 23.23,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "ARE",
     "Name": "ARE",
-    "P/E": 37.25,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "APTV",
     "Name": "APTV",
-    "P/E": 8.12,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "APO",
     "Name": "APO",
-    "P/E": 16.66,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "APH",
     "Name": "APH",
-    "P/E": 46.76,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "APD",
     "Name": "APD",
-    "P/E": 16.21,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "APA",
     "Name": "APA",
-    "P/E": 8.3,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "AOS",
@@ -7310,11 +7310,11 @@
   {
     "Symbol": "ROST",
     "Name": "ROST",
-    "P/E": 22.39,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "PCLN",
@@ -7337,11 +7337,11 @@
   {
     "Symbol": "FMC",
     "Name": "FMC",
-    "P/E": 16.17,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "PCS",
@@ -7355,29 +7355,29 @@
   {
     "Symbol": "FTI",
     "Name": "FTI",
-    "P/E": 16.17,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "HRL",
     "Name": "HRL",
-    "P/E": 20.92,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "VTR",
     "Name": "VTR",
-    "P/E": 1055.91,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "OI",
@@ -7400,20 +7400,20 @@
   {
     "Symbol": "CRM",
     "Name": "CRM",
-    "P/E": 41.84,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "FAST",
     "Name": "FAST",
-    "P/E": 42.03,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "AKS",
@@ -7454,20 +7454,20 @@
   {
     "Symbol": "RRC",
     "Name": "RRC",
-    "P/E": 34.77,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "GME",
     "Name": "GME",
-    "P/E": 101.4,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "JEC",
@@ -7481,20 +7481,20 @@
   {
     "Symbol": "EXPE",
     "Name": "EXPE",
-    "P/E": 18.19,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "TDC",
     "Name": "TDC",
-    "P/E": 18.91,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "TSO",
@@ -7508,11 +7508,11 @@
   {
     "Symbol": "ICE",
     "Name": "ICE",
-    "P/E": 36.93,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "LUK",
@@ -7526,11 +7526,11 @@
   {
     "Symbol": "DFS",
     "Name": "DFS",
-    "P/E": 11.1,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "KFT",
@@ -7544,29 +7544,29 @@
   {
     "Symbol": "AVB",
     "Name": "AVB",
-    "P/E": 26.71,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "JNPR",
     "Name": "JNPR",
-    "P/E": 41.7,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "AMZN",
     "Name": "AMZN",
-    "P/E": 38.46,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "STZ",
@@ -7589,11 +7589,11 @@
   {
     "Symbol": "INTU",
     "Name": "INTU",
-    "P/E": 72.5,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "SBL",
@@ -7643,11 +7643,11 @@
   {
     "Symbol": "SBUX",
     "Name": "SBUX",
-    "P/E": 27.15,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "YHOO",
@@ -7670,11 +7670,11 @@
   {
     "Symbol": "ACT",
     "Name": "ACT",
-    "P/E": 7.55,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "FSR",
@@ -7688,11 +7688,11 @@
   {
     "Symbol": "CCL",
     "Name": "CCL",
-    "P/E": 16.62,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u2705 P/E < 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "CPWR",
@@ -7724,19 +7724,19 @@
   {
     "Symbol": "BUD",
     "Name": "BUD",
-    "P/E": 21.13,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   },
   {
     "Symbol": "DIS",
     "Name": "DIS",
-    "P/E": 41.38,
+    "P/E": null,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
-    "VerdictReason": "\u274c P/E \u2265 20"
+    "VerdictReason": ""
   }
 ]
