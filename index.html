@@ -56,42 +56,43 @@
       });
 
     function sortTable(n) {
-      console.log("Sorting column", n);
-      const table = document.getElementById("stockTable");
-      let switching = true;
-      let dir = "asc";
-      while (switching) {
-        switching = false;
-        let rows = table.rows;
-        for (let i = 1; i < rows.length - 1; i++) {
-          let shouldSwitch = false;
-          let x = rows[i].getElementsByTagName("TD")[n];
-          let y = rows[i + 1].getElementsByTagName("TD")[n];
-          let xContent = x.innerText.trim();
-          let yContent = y.innerText.trim();
+  console.log("Sorting column", n);
+  const table = document.getElementById("stockTable");
+  let switching = true;
+  let dir = "asc";
+  while (switching) {
+    switching = false;
+    let rows = table.rows;
+    let shouldSwitch = false; // Moved here
+    for (let i = 1; i < rows.length - 1; i++) {
+      let x = rows[i].getElementsByTagName("TD")[n];
+      let y = rows[i + 1].getElementsByTagName("TD")[n];
+      let xContent = x.innerText.trim();
+      let yContent = y.innerText.trim();
 
-          let xVal = parseFloat(xContent.replace('%',''));
-          let yVal = parseFloat(yContent.replace('%',''));
+      let xVal = parseFloat(xContent.replace('%',''));
+      let yVal = parseFloat(yContent.replace('%',''));
 
-          if (isNaN(xVal)) xVal = xContent.toLowerCase();
-          if (isNaN(yVal)) yVal = yContent.toLowerCase();
+      if (isNaN(xVal)) xVal = xContent.toLowerCase();
+      if (isNaN(yVal)) yVal = yContent.toLowerCase();
 
-          console.log(`Comparing "${xVal}" vs "${yVal}"`);
+      console.log(`Comparing "${xVal}" vs "${yVal}"`);
 
-          if ((dir === "asc" && xVal > yVal) || (dir === "desc" && xVal < yVal)) {
-            shouldSwitch = true;
-            break;
-          }
-        }
-        if (shouldSwitch) {
-          rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
-          switching = true;
-        } else if (!switching && dir === "asc") {
-          dir = "desc";
-          switching = true;
-        }
+      if ((dir === "asc" && xVal > yVal) || (dir === "desc" && xVal < yVal)) {
+        shouldSwitch = true;
+        break;
       }
     }
+
+    if (shouldSwitch) {
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+    } else if (!switching && dir === "asc") {
+      dir = "desc";
+      switching = true;
+    }
+  }
+}
 
     function filterTable() {
       const input = document.getElementById("searchInput").value.toLowerCase();
