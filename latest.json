@@ -1,71 +1,368 @@
 [
   {
-    "Symbol": "AAPL",
-    "Name": "AAPL",
-    "P/E": 32.18,
+    "Symbol": "ZTS",
+    "Name": "ZTS",
+    "P/E": 30.47,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
     "VerdictReason": "\u274c P/E \u2265 20"
   },
   {
-    "Symbol": "MSFT",
-    "Name": "MSFT",
-    "P/E": 39.56,
+    "Symbol": "ZBRA",
+    "Name": "ZBRA",
+    "P/E": 28.73,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
     "VerdictReason": "\u274c P/E \u2265 20"
   },
   {
-    "Symbol": "AMZN",
-    "Name": "AMZN",
-    "P/E": 38.46,
+    "Symbol": "ZBH",
+    "Name": "ZBH",
+    "P/E": 20.22,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
     "VerdictReason": "\u274c P/E \u2265 20"
   },
   {
-    "Symbol": "GOOGL",
-    "Name": "GOOGL",
-    "P/E": 21.42,
+    "Symbol": "YUM",
+    "Name": "YUM",
+    "P/E": 26.8,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
     "VerdictReason": "\u274c P/E \u2265 20"
   },
   {
-    "Symbol": "META",
-    "Name": "META",
-    "P/E": 28.13,
+    "Symbol": "XYL",
+    "Name": "XYL",
+    "P/E": 34.64,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
     "VerdictReason": "\u274c P/E \u2265 20"
   },
   {
-    "Symbol": "NVDA",
-    "Name": "NVDA",
-    "P/E": 48.02,
+    "Symbol": "XOM",
+    "Name": "XOM",
+    "P/E": 13.42,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "XEL",
+    "Name": "XEL",
+    "P/E": 20.41,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
     "VerdictReason": "\u274c P/E \u2265 20"
   },
   {
-    "Symbol": "TSLA",
-    "Name": "TSLA",
-    "P/E": 133.14,
+    "Symbol": "WYNN",
+    "Name": "WYNN",
+    "P/E": 17.61,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "WY",
+    "Name": "WY",
+    "P/E": 48.96,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
     "VerdictReason": "\u274c P/E \u2265 20"
   },
   {
-    "Symbol": "BRK.B",
-    "Name": "BRK.B",
-    "P/E": 11.97,
+    "Symbol": "WTW",
+    "Name": "WTW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WST",
+    "Name": "WST",
+    "P/E": 32.72,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "WSM",
+    "Name": "WSM",
+    "P/E": 17.3,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "WRB",
+    "Name": "WRB",
+    "P/E": 15.68,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "WMT",
+    "Name": "WMT",
+    "P/E": 40.12,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "WMB",
+    "Name": "WMB",
+    "P/E": 33.05,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "WM",
+    "Name": "WM",
+    "P/E": 34.1,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "WFC",
+    "Name": "WFC",
+    "P/E": 12.56,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "WELL",
+    "Name": "WELL",
+    "P/E": 105.16,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "WEC",
+    "Name": "WEC",
+    "P/E": 22.06,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "WDC",
+    "Name": "WDC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WDAY",
+    "Name": "WDAY",
+    "P/E": 128.28,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "WBD",
+    "Name": "WBD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WBA",
+    "Name": "WBA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WAT",
+    "Name": "WAT",
+    "P/E": 32.83,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "WAB",
+    "Name": "WAB",
+    "P/E": 33.39,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "VZ",
+    "Name": "VZ",
+    "P/E": 10.54,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "VTRS",
+    "Name": "VTRS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "VTR",
+    "Name": "VTR",
+    "P/E": 1055.91,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "VST",
+    "Name": "VST",
+    "P/E": 22.16,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "VRTX",
+    "Name": "VRTX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "VRSN",
+    "Name": "VRSN",
+    "P/E": 34.06,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "VRSK",
+    "Name": "VRSK",
+    "P/E": 45.9,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "VMC",
+    "Name": "VMC",
+    "P/E": 38.4,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "VLTO",
+    "Name": "VLTO",
+    "P/E": 29.84,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "VLO",
+    "Name": "VLO",
+    "P/E": 14.59,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "VICI",
+    "Name": "VICI",
+    "P/E": 12.41,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "V",
+    "Name": "V",
+    "P/E": 36.08,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "USB",
+    "Name": "USB",
+    "P/E": 11.15,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "URI",
+    "Name": "URI",
+    "P/E": 17.84,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "UPS",
+    "Name": "UPS",
+    "P/E": 14.48,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "UNP",
+    "Name": "UNP",
+    "P/E": 19.84,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
@@ -81,9 +378,7362 @@
     "VerdictReason": "\u2705 P/E < 20"
   },
   {
+    "Symbol": "ULTA",
+    "Name": "ULTA",
+    "P/E": 17.42,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "UHS",
+    "Name": "UHS",
+    "P/E": 10.07,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "UDR",
+    "Name": "UDR",
+    "P/E": 151.55,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "UBER",
+    "Name": "UBER",
+    "P/E": 18.16,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "UAL",
+    "Name": "UAL",
+    "P/E": 8.74,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "TYL",
+    "Name": "TYL",
+    "P/E": 94.73,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "TXT",
+    "Name": "TXT",
+    "P/E": 16.76,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "TXN",
+    "Name": "TXN",
+    "P/E": 37.13,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "TTWO",
+    "Name": "TTWO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TT",
+    "Name": "TT",
+    "P/E": 37.25,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "TSN",
+    "Name": "TSN",
+    "P/E": 24.05,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "TSLA",
+    "Name": "TSLA",
+    "P/E": 133.14,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "TSCO",
+    "Name": "TSCO",
+    "P/E": 24.47,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "TRV",
+    "Name": "TRV",
+    "P/E": 12.16,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "TROW",
+    "Name": "TROW",
+    "P/E": 9.97,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "TRMB",
+    "Name": "TRMB",
+    "P/E": 11.45,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "TRGP",
+    "Name": "TRGP",
+    "P/E": 27.63,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "TPR",
+    "Name": "TPR",
+    "P/E": 20.09,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "TPL",
+    "Name": "TPL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TMUS",
+    "Name": "TMUS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TMO",
+    "Name": "TMO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TKO",
+    "Name": "TKO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TJX",
+    "Name": "TJX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TGT",
+    "Name": "TGT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TFC",
+    "Name": "TFC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TER",
+    "Name": "TER",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TEL",
+    "Name": "TEL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TECH",
+    "Name": "TECH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TDY",
+    "Name": "TDY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TDG",
+    "Name": "TDG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TAP",
+    "Name": "TAP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "T",
+    "Name": "T",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SYY",
+    "Name": "SYY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SYK",
+    "Name": "SYK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SYF",
+    "Name": "SYF",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SWKS",
+    "Name": "SWKS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SWK",
+    "Name": "SWK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SW",
+    "Name": "SW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "STZ",
+    "Name": "STZ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "STX",
+    "Name": "STX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "STT",
+    "Name": "STT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "STLD",
+    "Name": "STLD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "STE",
+    "Name": "STE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SRE",
+    "Name": "SRE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SPGI",
+    "Name": "SPGI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SPG",
+    "Name": "SPG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SOLV",
+    "Name": "SOLV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SO",
+    "Name": "SO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SNPS",
+    "Name": "SNPS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SNA",
+    "Name": "SNA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SMCI",
+    "Name": "SMCI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SLB",
+    "Name": "SLB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SJM",
+    "Name": "SJM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SHW",
+    "Name": "SHW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SCHW",
+    "Name": "SCHW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SBUX",
+    "Name": "SBUX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SBAC",
+    "Name": "SBAC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RVTY",
+    "Name": "RVTY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RTX",
+    "Name": "RTX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RSG",
+    "Name": "RSG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ROST",
+    "Name": "ROST",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ROP",
+    "Name": "ROP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ROL",
+    "Name": "ROL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ROK",
+    "Name": "ROK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RMD",
+    "Name": "RMD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RL",
+    "Name": "RL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RJF",
+    "Name": "RJF",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RF",
+    "Name": "RF",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "REGN",
+    "Name": "REGN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "REG",
+    "Name": "REG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RCL",
+    "Name": "RCL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "QCOM",
+    "Name": "QCOM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PYPL",
+    "Name": "PYPL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PWR",
+    "Name": "PWR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PTC",
+    "Name": "PTC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PSX",
+    "Name": "PSX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PSA",
+    "Name": "PSA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PRU",
+    "Name": "PRU",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PPL",
+    "Name": "PPL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PPG",
+    "Name": "PPG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "POOL",
+    "Name": "POOL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PODD",
+    "Name": "PODD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PNW",
+    "Name": "PNW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PNR",
+    "Name": "PNR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PNC",
+    "Name": "PNC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PM",
+    "Name": "PM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PLTR",
+    "Name": "PLTR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PLD",
+    "Name": "PLD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PKG",
+    "Name": "PKG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PHM",
+    "Name": "PHM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PH",
+    "Name": "PH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PGR",
+    "Name": "PGR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PG",
+    "Name": "PG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PFG",
+    "Name": "PFG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PFE",
+    "Name": "PFE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PEP",
+    "Name": "PEP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PEG",
+    "Name": "PEG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PCG",
+    "Name": "PCG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PCAR",
+    "Name": "PCAR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PAYX",
+    "Name": "PAYX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PAYC",
+    "Name": "PAYC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PARA",
+    "Name": "PARA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PANW",
+    "Name": "PANW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "OXY",
+    "Name": "OXY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "OTIS",
+    "Name": "OTIS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ORLY",
+    "Name": "ORLY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ORCL",
+    "Name": "ORCL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ON",
+    "Name": "ON",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "OMC",
+    "Name": "OMC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "OKE",
+    "Name": "OKE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ODFL",
+    "Name": "ODFL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "O",
+    "Name": "O",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NXPI",
+    "Name": "NXPI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NWSA",
+    "Name": "NWSA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NWS",
+    "Name": "NWS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NVR",
+    "Name": "NVR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NVDA",
+    "Name": "NVDA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NUE",
+    "Name": "NUE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NTRS",
+    "Name": "NTRS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NTAP",
+    "Name": "NTAP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NSC",
+    "Name": "NSC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NRG",
+    "Name": "NRG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NOW",
+    "Name": "NOW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NOC",
+    "Name": "NOC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NKE",
+    "Name": "NKE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NI",
+    "Name": "NI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NFLX",
+    "Name": "NFLX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NEM",
+    "Name": "NEM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NEE",
+    "Name": "NEE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NDSN",
+    "Name": "NDSN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NDAQ",
+    "Name": "NDAQ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NCLH",
+    "Name": "NCLH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MU",
+    "Name": "MU",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MTD",
+    "Name": "MTD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MTCH",
+    "Name": "MTCH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MTB",
+    "Name": "MTB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MSI",
+    "Name": "MSI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MSFT",
+    "Name": "MSFT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MSCI",
+    "Name": "MSCI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MS",
+    "Name": "MS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MRNA",
+    "Name": "MRNA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MRK",
+    "Name": "MRK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MPWR",
+    "Name": "MPWR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MPC",
+    "Name": "MPC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MOS",
+    "Name": "MOS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MOH",
+    "Name": "MOH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MO",
+    "Name": "MO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MNST",
+    "Name": "MNST",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MMM",
+    "Name": "MMM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MMC",
+    "Name": "MMC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MLM",
+    "Name": "MLM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MKTX",
+    "Name": "MKTX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MKC",
+    "Name": "MKC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MHK",
+    "Name": "MHK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MGM",
+    "Name": "MGM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "META",
+    "Name": "META",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MET",
+    "Name": "MET",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MDT",
+    "Name": "MDT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MDLZ",
+    "Name": "MDLZ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MCO",
+    "Name": "MCO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MCK",
+    "Name": "MCK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MCHP",
+    "Name": "MCHP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MCD",
+    "Name": "MCD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MAS",
+    "Name": "MAS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MAR",
+    "Name": "MAR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MAA",
+    "Name": "MAA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MA",
+    "Name": "MA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LYV",
+    "Name": "LYV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LYB",
+    "Name": "LYB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LW",
+    "Name": "LW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LVS",
+    "Name": "LVS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LUV",
+    "Name": "LUV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LULU",
+    "Name": "LULU",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LRCX",
+    "Name": "LRCX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LOW",
+    "Name": "LOW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LNT",
+    "Name": "LNT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LMT",
+    "Name": "LMT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LLY",
+    "Name": "LLY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LKQ",
+    "Name": "LKQ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LIN",
+    "Name": "LIN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LII",
+    "Name": "LII",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LHX",
+    "Name": "LHX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LH",
+    "Name": "LH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LEN",
+    "Name": "LEN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LDOS",
+    "Name": "LDOS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "L",
+    "Name": "L",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KVUE",
+    "Name": "KVUE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KR",
+    "Name": "KR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KO",
+    "Name": "KO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KMX",
+    "Name": "KMX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KMI",
+    "Name": "KMI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KMB",
+    "Name": "KMB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KLAC",
+    "Name": "KLAC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KKR",
+    "Name": "KKR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KIM",
+    "Name": "KIM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KHC",
+    "Name": "KHC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KEYS",
+    "Name": "KEYS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KEY",
+    "Name": "KEY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KDP",
+    "Name": "KDP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "K",
+    "Name": "K",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JPM",
+    "Name": "JPM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JNPR",
+    "Name": "JNPR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
     "Symbol": "JNJ",
     "Name": "JNJ",
-    "P/E": 26.6,
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JKHY",
+    "Name": "JKHY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JCI",
+    "Name": "JCI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JBL",
+    "Name": "JBL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JBHT",
+    "Name": "JBHT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "J",
+    "Name": "J",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IVZ",
+    "Name": "IVZ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ITW",
+    "Name": "ITW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IT",
+    "Name": "IT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ISRG",
+    "Name": "ISRG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IRM",
+    "Name": "IRM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IR",
+    "Name": "IR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IQV",
+    "Name": "IQV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IPG",
+    "Name": "IPG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IP",
+    "Name": "IP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "INVH",
+    "Name": "INVH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "INTU",
+    "Name": "INTU",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "INTC",
+    "Name": "INTC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "INCY",
+    "Name": "INCY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IFF",
+    "Name": "IFF",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IEX",
+    "Name": "IEX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IDXX",
+    "Name": "IDXX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ICE",
+    "Name": "ICE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IBM",
+    "Name": "IBM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HWM",
+    "Name": "HWM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HUM",
+    "Name": "HUM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HUBB",
+    "Name": "HUBB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HSY",
+    "Name": "HSY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HST",
+    "Name": "HST",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HSIC",
+    "Name": "HSIC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HRL",
+    "Name": "HRL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HPQ",
+    "Name": "HPQ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HPE",
+    "Name": "HPE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HON",
+    "Name": "HON",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HOLX",
+    "Name": "HOLX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HLT",
+    "Name": "HLT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HII",
+    "Name": "HII",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HIG",
+    "Name": "HIG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HES",
+    "Name": "HES",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HD",
+    "Name": "HD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HCA",
+    "Name": "HCA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HBAN",
+    "Name": "HBAN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HAS",
+    "Name": "HAS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HAL",
+    "Name": "HAL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GWW",
+    "Name": "GWW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GS",
+    "Name": "GS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GRMN",
+    "Name": "GRMN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GPN",
+    "Name": "GPN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GPC",
+    "Name": "GPC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GOOGL",
+    "Name": "GOOGL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GOOG",
+    "Name": "GOOG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GNRC",
+    "Name": "GNRC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GM",
+    "Name": "GM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GLW",
+    "Name": "GLW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GL",
+    "Name": "GL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GIS",
+    "Name": "GIS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GILD",
+    "Name": "GILD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GEV",
+    "Name": "GEV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GEN",
+    "Name": "GEN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GEHC",
+    "Name": "GEHC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GE",
+    "Name": "GE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GDDY",
+    "Name": "GDDY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GD",
+    "Name": "GD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FTV",
+    "Name": "FTV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FTNT",
+    "Name": "FTNT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FSLR",
+    "Name": "FSLR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FRT",
+    "Name": "FRT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FOXA",
+    "Name": "FOXA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FOX",
+    "Name": "FOX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FITB",
+    "Name": "FITB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FIS",
+    "Name": "FIS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FICO",
+    "Name": "FICO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FI",
+    "Name": "FI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FFIV",
+    "Name": "FFIV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FE",
+    "Name": "FE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FDX",
+    "Name": "FDX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FDS",
+    "Name": "FDS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FCX",
+    "Name": "FCX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FAST",
+    "Name": "FAST",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FANG",
+    "Name": "FANG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "F",
+    "Name": "F",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EXR",
+    "Name": "EXR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EXPE",
+    "Name": "EXPE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EXPD",
+    "Name": "EXPD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EXE",
+    "Name": "EXE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EXC",
+    "Name": "EXC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EW",
+    "Name": "EW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EVRG",
+    "Name": "EVRG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ETR",
+    "Name": "ETR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ETN",
+    "Name": "ETN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ESS",
+    "Name": "ESS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ES",
+    "Name": "ES",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ERIE",
+    "Name": "ERIE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EQT",
+    "Name": "EQT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EQR",
+    "Name": "EQR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EQIX",
+    "Name": "EQIX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EPAM",
+    "Name": "EPAM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EOG",
+    "Name": "EOG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ENPH",
+    "Name": "ENPH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EMR",
+    "Name": "EMR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EMN",
+    "Name": "EMN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ELV",
+    "Name": "ELV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EL",
+    "Name": "EL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EIX",
+    "Name": "EIX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EG",
+    "Name": "EG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EFX",
+    "Name": "EFX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ED",
+    "Name": "ED",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ECL",
+    "Name": "ECL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EBAY",
+    "Name": "EBAY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EA",
+    "Name": "EA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DXCM",
+    "Name": "DXCM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DVN",
+    "Name": "DVN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DVA",
+    "Name": "DVA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DUK",
+    "Name": "DUK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DTE",
+    "Name": "DTE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DRI",
+    "Name": "DRI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DPZ",
+    "Name": "DPZ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DOW",
+    "Name": "DOW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DOV",
+    "Name": "DOV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DOC",
+    "Name": "DOC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DLTR",
+    "Name": "DLTR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DLR",
+    "Name": "DLR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DIS",
+    "Name": "DIS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DHR",
+    "Name": "DHR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DHI",
+    "Name": "DHI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DGX",
+    "Name": "DGX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DG",
+    "Name": "DG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DELL",
+    "Name": "DELL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DECK",
+    "Name": "DECK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DE",
+    "Name": "DE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DD",
+    "Name": "DD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DAY",
+    "Name": "DAY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DASH",
+    "Name": "DASH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DAL",
+    "Name": "DAL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "D",
+    "Name": "D",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CZR",
+    "Name": "CZR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CVX",
+    "Name": "CVX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CVS",
+    "Name": "CVS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CTVA",
+    "Name": "CTVA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CTSH",
+    "Name": "CTSH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CTRA",
+    "Name": "CTRA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CTAS",
+    "Name": "CTAS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CSX",
+    "Name": "CSX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CSGP",
+    "Name": "CSGP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CSCO",
+    "Name": "CSCO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CRWD",
+    "Name": "CRWD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CRM",
+    "Name": "CRM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CRL",
+    "Name": "CRL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CPT",
+    "Name": "CPT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CPRT",
+    "Name": "CPRT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CPB",
+    "Name": "CPB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CPAY",
+    "Name": "CPAY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COST",
+    "Name": "COST",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COR",
+    "Name": "COR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COP",
+    "Name": "COP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COO",
+    "Name": "COO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COIN",
+    "Name": "COIN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COF",
+    "Name": "COF",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CNP",
+    "Name": "CNP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CNC",
+    "Name": "CNC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CMS",
+    "Name": "CMS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CMI",
+    "Name": "CMI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CMG",
+    "Name": "CMG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CME",
+    "Name": "CME",
+    "P/E": 27.4,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CMCSA",
+    "Name": "CMCSA",
+    "P/E": 8.02,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "CLX",
+    "Name": "CLX",
+    "P/E": 56.04,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CL",
+    "Name": "CL",
+    "P/E": 25.57,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CINF",
+    "Name": "CINF",
+    "P/E": 10.3,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "CI",
+    "Name": "CI",
+    "P/E": 24.13,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CHTR",
+    "Name": "CHTR",
+    "P/E": 21.55,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CHRW",
+    "Name": "CHRW",
+    "P/E": 24.42,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CHD",
+    "Name": "CHD",
+    "P/E": 41.69,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CFG",
+    "Name": "CFG",
+    "P/E": 11.89,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "CF",
+    "Name": "CF",
+    "P/E": 12.49,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "CEG",
+    "Name": "CEG",
+    "P/E": 24.98,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CDW",
+    "Name": "CDW",
+    "P/E": 21.78,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CDNS",
+    "Name": "CDNS",
+    "P/E": 79.18,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CCL",
+    "Name": "CCL",
+    "P/E": 16.62,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "CCI",
+    "Name": "CCI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CBRE",
+    "Name": "CBRE",
+    "P/E": 39.59,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CBOE",
+    "Name": "CBOE",
+    "P/E": 31.27,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CB",
+    "Name": "CB",
+    "P/E": 12.7,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "CAT",
+    "Name": "CAT",
+    "P/E": 15.67,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "CARR",
+    "Name": "CARR",
+    "P/E": 10.87,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "CAH",
+    "Name": "CAH",
+    "P/E": 43.12,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "CAG",
+    "Name": "CAG",
+    "P/E": 30.78,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "C",
+    "Name": "C",
+    "P/E": 11.53,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BXP",
+    "Name": "BXP",
+    "P/E": 796.62,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BX",
+    "Name": "BX",
+    "P/E": 61.37,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BSX",
+    "Name": "BSX",
+    "P/E": 80.46,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BRO",
+    "Name": "BRO",
+    "P/E": 31.09,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BRK.B",
+    "Name": "BRK.B",
+    "P/E": 11.97,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BR",
+    "Name": "BR",
+    "P/E": 40.94,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BMY",
+    "Name": "BMY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BLK",
+    "Name": "BLK",
+    "P/E": 24.06,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BLDR",
+    "Name": "BLDR",
+    "P/E": 11.5,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BKR",
+    "Name": "BKR",
+    "P/E": 12.6,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BKNG",
+    "Name": "BKNG",
+    "P/E": 31.06,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BK",
+    "Name": "BK",
+    "P/E": 14.26,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BIIB",
+    "Name": "BIIB",
+    "P/E": 12.03,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BG",
+    "Name": "BG",
+    "P/E": 8.81,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BF.B",
+    "Name": "BF.B",
+    "P/E": 15.32,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BEN",
+    "Name": "BEN",
+    "P/E": 24.81,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BDX",
+    "Name": "BDX",
+    "P/E": 29.21,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "BBY",
+    "Name": "BBY",
+    "P/E": 16.7,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BAX",
+    "Name": "BAX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BALL",
+    "Name": "BALL",
+    "P/E": 3.74,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BAC",
+    "Name": "BAC",
+    "P/E": 12.51,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "BA",
+    "Name": "BA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AZO",
+    "Name": "AZO",
+    "P/E": 23.13,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "AXP",
+    "Name": "AXP",
+    "P/E": 20.79,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "AXON",
+    "Name": "AXON",
+    "P/E": 163.5,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "AWK",
+    "Name": "AWK",
+    "P/E": 25.62,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "AVY",
+    "Name": "AVY",
+    "P/E": 20.06,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "AVGO",
+    "Name": "AVGO",
+    "P/E": 196.96,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "AVB",
+    "Name": "AVB",
+    "P/E": 26.71,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "ATO",
+    "Name": "ATO",
+    "P/E": 23.23,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "ARE",
+    "Name": "ARE",
+    "P/E": 37.25,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "APTV",
+    "Name": "APTV",
+    "P/E": 8.12,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "APO",
+    "Name": "APO",
+    "P/E": 16.66,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "APH",
+    "Name": "APH",
+    "P/E": 46.76,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "APD",
+    "Name": "APD",
+    "P/E": 16.21,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "APA",
+    "Name": "APA",
+    "P/E": 8.3,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "AOS",
+    "Name": "AOS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AON",
+    "Name": "AON",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ANSS",
+    "Name": "ANSS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ANET",
+    "Name": "ANET",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMZN",
+    "Name": "AMZN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMT",
+    "Name": "AMT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMP",
+    "Name": "AMP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMGN",
+    "Name": "AMGN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AME",
+    "Name": "AME",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMD",
+    "Name": "AMD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMCR",
+    "Name": "AMCR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMAT",
+    "Name": "AMAT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ALLE",
+    "Name": "ALLE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ALL",
+    "Name": "ALL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ALGN",
+    "Name": "ALGN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ALB",
+    "Name": "ALB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AKAM",
+    "Name": "AKAM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AJG",
+    "Name": "AJG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AIZ",
+    "Name": "AIZ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AIG",
+    "Name": "AIG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AFL",
+    "Name": "AFL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AES",
+    "Name": "AES",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AEP",
+    "Name": "AEP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AEE",
+    "Name": "AEE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ADSK",
+    "Name": "ADSK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ADP",
+    "Name": "ADP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ADM",
+    "Name": "ADM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ADI",
+    "Name": "ADI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ADBE",
+    "Name": "ADBE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ACN",
+    "Name": "ACN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ACGL",
+    "Name": "ACGL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ABT",
+    "Name": "ABT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ABNB",
+    "Name": "ABNB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ABBV",
+    "Name": "ABBV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AAPL",
+    "Name": "AAPL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "A",
+    "Name": "A",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COIN",
+    "Name": "COIN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DASH",
+    "Name": "DASH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TKO",
+    "Name": "TKO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WSM",
+    "Name": "WSM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EXE",
+    "Name": "EXE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "APO",
+    "Name": "APO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WDAY",
+    "Name": "WDAY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LII",
+    "Name": "LII",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TPL",
+    "Name": "TPL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMTM",
+    "Name": "AMTM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PLTR",
+    "Name": "PLTR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DELL",
+    "Name": "DELL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ERIE",
+    "Name": "ERIE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KKR",
+    "Name": "KKR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CRWD",
+    "Name": "CRWD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GDDY",
+    "Name": "GDDY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "VST",
+    "Name": "VST",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GEV",
+    "Name": "GEV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SOLV",
+    "Name": "SOLV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SMCI",
+    "Name": "SMCI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DECK",
+    "Name": "DECK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "UBER",
+    "Name": "UBER",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JBL",
+    "Name": "JBL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BLDR",
+    "Name": "BLDR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HUBB",
+    "Name": "HUBB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LULU",
+    "Name": "LULU",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "VLTO",
+    "Name": "VLTO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BX",
+    "Name": "BX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ABNB",
+    "Name": "ABNB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KVUE",
+    "Name": "KVUE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PANW",
+    "Name": "PANW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AXON",
+    "Name": "AXON",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FICO",
+    "Name": "FICO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BG",
+    "Name": "BG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PODD",
+    "Name": "PODD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GEHC",
+    "Name": "GEHC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "STLD",
+    "Name": "STLD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FSLR",
+    "Name": "FSLR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MBC",
+    "Name": "MBC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ACGL",
+    "Name": "ACGL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TRGP",
+    "Name": "TRGP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PCG",
+    "Name": "PCG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EQT",
+    "Name": "EQT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CSGP",
+    "Name": "CSGP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "INVH",
+    "Name": "INVH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KDP",
+    "Name": "KDP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ON",
+    "Name": "ON",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "VICI",
+    "Name": "VICI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WBD",
+    "Name": "WBD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CPT",
+    "Name": "CPT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MOH",
+    "Name": "MOH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NDSN",
+    "Name": "NDSN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CEG",
+    "Name": "CEG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SBNY",
+    "Name": "SBNY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SEDG",
+    "Name": "SEDG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FDS",
+    "Name": "FDS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EPAM",
+    "Name": "EPAM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MTCH",
+    "Name": "MTCH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CDAY",
+    "Name": "CDAY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BRO",
+    "Name": "BRO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TECH",
+    "Name": "TECH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MRNA",
+    "Name": "MRNA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "OGN",
+    "Name": "OGN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CRL",
+    "Name": "CRL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PTC",
+    "Name": "PTC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NXPI",
+    "Name": "NXPI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PENN",
+    "Name": "PENN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GNRC",
+    "Name": "GNRC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CZR",
+    "Name": "CZR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MPWR",
+    "Name": "MPWR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TRMB",
+    "Name": "TRMB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ENPH",
+    "Name": "ENPH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TSLA",
+    "Name": "TSLA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "VNT",
+    "Name": "VNT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "POOL",
+    "Name": "POOL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ETSY",
+    "Name": "ETSY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TER",
+    "Name": "TER",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CTLT",
+    "Name": "CTLT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BIO",
+    "Name": "BIO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TDY",
+    "Name": "TDY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TYL",
+    "Name": "TYL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WST",
+    "Name": "WST",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DPZ",
+    "Name": "DPZ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DXCM",
+    "Name": "DXCM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "OTIS",
+    "Name": "OTIS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CARR",
+    "Name": "CARR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HWM",
+    "Name": "HWM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IR",
+    "Name": "IR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PAYC",
+    "Name": "PAYC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LYV",
+    "Name": "LYV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ZBRA",
+    "Name": "ZBRA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "STE",
+    "Name": "STE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ODFL",
+    "Name": "ODFL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WRB",
+    "Name": "WRB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NOW",
+    "Name": "NOW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LVS",
+    "Name": "LVS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NVR",
+    "Name": "NVR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CDW",
+    "Name": "CDW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LDOS",
+    "Name": "LDOS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IEX",
+    "Name": "IEX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TMUS",
+    "Name": "TMUS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MKTX",
+    "Name": "MKTX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMCR",
+    "Name": "AMCR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BMS",
+    "Name": "BMS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DD",
+    "Name": "DD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CTVA",
+    "Name": "CTVA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DOW",
+    "Name": "DOW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FOXA",
+    "Name": "FOXA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FOX",
+    "Name": "FOX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WAB",
+    "Name": "WAB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ATO",
+    "Name": "ATO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TFX",
+    "Name": "TFX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FRC",
+    "Name": "FRC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CE",
+    "Name": "CE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LW",
+    "Name": "LW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MXIM",
+    "Name": "MXIM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FANG",
+    "Name": "FANG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JKHY",
+    "Name": "JKHY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KEYS",
+    "Name": "KEYS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FTNT",
+    "Name": "FTNT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ROL",
+    "Name": "ROL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WCG",
+    "Name": "WCG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ANET",
+    "Name": "ANET",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CPRT",
+    "Name": "CPRT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FLT",
+    "Name": "FLT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BR",
+    "Name": "BR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HFC",
+    "Name": "HFC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TWTR",
+    "Name": "TWTR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EVRG",
+    "Name": "EVRG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ABMD",
+    "Name": "ABMD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MSCI",
+    "Name": "MSCI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TTWO",
+    "Name": "TTWO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SIVB",
+    "Name": "SIVB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NKTR",
+    "Name": "NKTR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IPGP",
+    "Name": "IPGP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HII",
+    "Name": "HII",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NCLH",
+    "Name": "NCLH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CDNS",
+    "Name": "CDNS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DWDP",
+    "Name": "DWDP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SBAC",
+    "Name": "SBAC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "Q",
+    "Name": "Q",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BHF",
+    "Name": "BHF",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DRE",
+    "Name": "DRE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AOS",
+    "Name": "AOS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PKG",
+    "Name": "PKG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RMD",
+    "Name": "RMD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MGM",
+    "Name": "MGM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BKR",
+    "Name": "BKR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HLT",
+    "Name": "HLT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ALGN",
+    "Name": "ALGN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ANSS",
+    "Name": "ANSS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RE",
+    "Name": "RE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "INFO",
+    "Name": "INFO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IT",
+    "Name": "IT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DXC",
+    "Name": "DXC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMD",
+    "Name": "AMD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RJF",
+    "Name": "RJF",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ARE",
+    "Name": "ARE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SNPS",
+    "Name": "SNPS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DISH",
+    "Name": "DISH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "REG",
+    "Name": "REG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CBOE",
+    "Name": "CBOE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "INCY",
+    "Name": "INCY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IDXX",
+    "Name": "IDXX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MAA",
+    "Name": "MAA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EVHC",
+    "Name": "EVHC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ARNC",
+    "Name": "ARNC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COTY",
+    "Name": "COTY",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COO",
+    "Name": "COO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CHTR",
+    "Name": "CHTR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MTD",
+    "Name": "MTD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FTV",
+    "Name": "FTV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LNT",
+    "Name": "LNT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ALB",
+    "Name": "ALB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FBHS",
+    "Name": "FBHS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TDG",
+    "Name": "TDG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AJG",
+    "Name": "AJG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LKQ",
+    "Name": "LKQ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DLR",
+    "Name": "DLR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ALK",
+    "Name": "ALK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AYI",
+    "Name": "AYI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GPN",
+    "Name": "GPN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ULTA",
+    "Name": "ULTA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "UA",
+    "Name": "UA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FL",
+    "Name": "FL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HOLX",
+    "Name": "HOLX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CNC",
+    "Name": "CNC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "UDR",
+    "Name": "UDR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AWK",
+    "Name": "AWK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CXO",
+    "Name": "CXO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CFG",
+    "Name": "CFG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FRT",
+    "Name": "FRT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EXR",
+    "Name": "EXR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WLTW",
+    "Name": "WLTW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CHD",
+    "Name": "CHD",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CSRA",
+    "Name": "CSRA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ILMN",
+    "Name": "ILMN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SYF",
+    "Name": "SYF",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HPE",
+    "Name": "HPE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "VRSK",
+    "Name": "VRSK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CMCSK",
+    "Name": "CMCSK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FOX",
+    "Name": "FOX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NWS",
+    "Name": "NWS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "UAL",
+    "Name": "UAL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ATVI",
+    "Name": "ATVI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SIG",
+    "Name": "SIG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PYPL",
+    "Name": "PYPL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AAP",
+    "Name": "AAP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KHC",
+    "Name": "KHC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CPGX",
+    "Name": "CPGX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JBHT",
+    "Name": "JBHT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BXLT",
+    "Name": "BXLT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "QRVO",
+    "Name": "QRVO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "O",
+    "Name": "O",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AAL",
+    "Name": "AAL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EQIX",
+    "Name": "EQIX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SLG",
+    "Name": "SLG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HBI",
+    "Name": "HBI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HSIC",
+    "Name": "HSIC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SWKS",
+    "Name": "SWKS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HCA",
+    "Name": "HCA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ENDP",
+    "Name": "ENDP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RCL",
+    "Name": "RCL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LVLT",
+    "Name": "LVLT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "URI",
+    "Name": "URI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "UHS",
+    "Name": "UHS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MNK",
+    "Name": "MNK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DISCK",
+    "Name": "DISCK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MLM",
+    "Name": "MLM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AMG",
+    "Name": "AMG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "XEC",
+    "Name": "XEC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AVGO",
+    "Name": "AVGO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "UA",
+    "Name": "UA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NAVI",
+    "Name": "NAVI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GOOGL",
+    "Name": "GOOGL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ESS",
+    "Name": "ESS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GMCR",
+    "Name": "GMCR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TSCO",
+    "Name": "TSCO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ADS",
+    "Name": "ADS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MHK",
+    "Name": "MHK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FB",
+    "Name": "FB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GGP",
+    "Name": "GGP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ALLE",
+    "Name": "ALLE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KORS",
+    "Name": "KORS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RIG",
+    "Name": "RIG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "VRTX",
+    "Name": "VRTX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AME",
+    "Name": "AME",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DAL",
+    "Name": "DAL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NLSN",
+    "Name": "NLSN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NWSA",
+    "Name": "NWSA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ZTS",
+    "Name": "ZTS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GM",
+    "Name": "GM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KSU",
+    "Name": "KSU",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MAC",
+    "Name": "MAC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "REGN",
+    "Name": "REGN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PVH",
+    "Name": "PVH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ABBV",
+    "Name": "ABBV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DLPH",
+    "Name": "DLPH",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GRMN",
+    "Name": "GRMN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DG",
+    "Name": "DG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PETM",
+    "Name": "PETM",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KRFT",
+    "Name": "KRFT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MDLZ",
+    "Name": "MDLZ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ADT",
+    "Name": "ADT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PNR",
+    "Name": "PNR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LYB",
+    "Name": "LYB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ESV",
+    "Name": "ESV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "STX",
+    "Name": "STX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MNST",
+    "Name": "MNST",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LRCX",
+    "Name": "LRCX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ALXN",
+    "Name": "ALXN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KMI",
+    "Name": "KMI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PSX",
+    "Name": "PSX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FOSL",
+    "Name": "FOSL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CCI",
+    "Name": "CCI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WPX",
+    "Name": "WPX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TRIP",
+    "Name": "TRIP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BWA",
+    "Name": "BWA",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "PRGO",
+    "Name": "PRGO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DLTR",
+    "Name": "DLTR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "GAS",
+    "Name": "GAS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CBE",
+    "Name": "CBE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "XYL",
+    "Name": "XYL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TEL",
+    "Name": "TEL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MOS",
+    "Name": "MOS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ACN",
+    "Name": "ACN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MPC",
+    "Name": "MPC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ANR",
+    "Name": "ANR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CMG",
+    "Name": "CMG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BLK",
+    "Name": "BLK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EW",
+    "Name": "EW",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COV",
+    "Name": "COV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JOYG",
+    "Name": "JOYG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MMI",
+    "Name": "MMI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CVC",
+    "Name": "CVC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FFIV",
+    "Name": "FFIV",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NFLX",
+    "Name": "NFLX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NFX",
+    "Name": "NFX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "IR",
+    "Name": "IR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "TYC",
+    "Name": "TYC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CB",
+    "Name": "CB",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "QEP",
+    "Name": "QEP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "KMX",
+    "Name": "KMX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CERN",
+    "Name": "CERN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HP",
+    "Name": "HP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "V",
+    "Name": "V",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MJN",
+    "Name": "MJN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CLF",
+    "Name": "CLF",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SAI",
+    "Name": "SAI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ROST",
+    "Name": "ROST",
+    "P/E": 22.39,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "PCLN",
+    "Name": "PCLN",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ARG",
+    "Name": "ARG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FMC",
+    "Name": "FMC",
+    "P/E": 16.17,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "PCS",
+    "Name": "PCS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "FTI",
+    "Name": "FTI",
+    "P/E": 16.17,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "HRL",
+    "Name": "HRL",
+    "P/E": 20.92,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "VTR",
+    "Name": "VTR",
+    "P/E": 1055.91,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "OI",
+    "Name": "OI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "HRS",
+    "Name": "HRS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CRM",
+    "Name": "CRM",
+    "P/E": 41.84,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "FAST",
+    "Name": "FAST",
+    "P/E": 42.03,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "AKS",
+    "Name": "AKS",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "COG",
+    "Name": "COG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "MEE",
+    "Name": "MEE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "LO",
+    "Name": "LO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "RRC",
+    "Name": "RRC",
+    "P/E": 34.77,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "GME",
+    "Name": "GME",
+    "P/E": 101.4,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "JEC",
+    "Name": "JEC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "EXPE",
+    "Name": "EXPE",
+    "P/E": 18.19,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "TDC",
+    "Name": "TDC",
+    "P/E": 18.91,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "TSO",
+    "Name": "TSO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ICE",
+    "Name": "ICE",
+    "P/E": 36.93,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "LUK",
+    "Name": "LUK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "DFS",
+    "Name": "DFS",
+    "P/E": 11.1,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "KFT",
+    "Name": "KFT",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AVB",
+    "Name": "AVB",
+    "P/E": 26.71,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "JNPR",
+    "Name": "JNPR",
+    "P/E": 41.7,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "AMZN",
+    "Name": "AMZN",
+    "P/E": 38.46,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "STZ",
+    "Name": "STZ",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ESRX",
+    "Name": "ESRX",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "INTU",
+    "Name": "INTU",
+    "P/E": 72.5,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "SBL",
+    "Name": "SBL",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "AYE",
+    "Name": "AYE",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ABK",
+    "Name": "ABK",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "JDSU",
+    "Name": "JDSU",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CVG",
+    "Name": "CVG",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "SBUX",
+    "Name": "SBUX",
+    "P/E": 27.15,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "YHOO",
+    "Name": "YHOO",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "WLP",
+    "Name": "WLP",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "ACT",
+    "Name": "ACT",
+    "P/E": 7.55,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "FSR",
+    "Name": "FSR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CCL",
+    "Name": "CCL",
+    "P/E": 16.62,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u2705 P/E < 20"
+  },
+  {
+    "Symbol": "CPWR",
+    "Name": "CPWR",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "CCI",
+    "Name": "CCI",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "NCC",
+    "Name": "NCC",
+    "P/E": null,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": ""
+  },
+  {
+    "Symbol": "BUD",
+    "Name": "BUD",
+    "P/E": 21.13,
+    "PEG": null,
+    "FCF Yield (%)": null,
+    "Verdict": "\u274c Overvalued",
+    "VerdictReason": "\u274c P/E \u2265 20"
+  },
+  {
+    "Symbol": "DIS",
+    "Name": "DIS",
+    "P/E": 41.38,
     "PEG": null,
     "FCF Yield (%)": null,
     "Verdict": "\u274c Overvalued",
